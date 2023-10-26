@@ -39,7 +39,7 @@ This folder (name it as you want)
 Clone this repo with submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/albrtogarcia/federation-micro-frontend.git
+git clone --recurse-submodules https://github.com/albrtogarcia/monorepo-lerna.git
 ```
 
 Run the following commands in the root directory to install all dependencies for all services an once and start all services:
