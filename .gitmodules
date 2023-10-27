@@ -1,3 +1,6 @@
 [submodule "packages/library"]
 	path = packages/library
 	url = https://github.com/albrtogarcia/library.git
+[submodule "apps/app"]
+	path = apps/app
+	url = https://github.com/albrtogarcia/app.git
