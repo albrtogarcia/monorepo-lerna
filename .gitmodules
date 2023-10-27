@@ -1,0 +1,3 @@
+[submodule "packages/library"]
+	path = packages/library
+	url = https://github.com/albrtogarcia/library.git

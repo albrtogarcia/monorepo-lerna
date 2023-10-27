@@ -6,7 +6,7 @@
     "apps/*"
   ],
   "scripts": {
-    "dev": "lerna run --parallel start",
+    "dev": "lerna run --parallel dev",
     "build": "lerna run build"
   },
   "devDependencies": {
