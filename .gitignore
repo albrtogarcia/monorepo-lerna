@@ -8,10 +8,15 @@ dist
 dist-ssr
 build
 
+# submodules
+apps
+packages
+
 # Development
 node_modules
 *.local
 package-lock.json
+yarn.lock
 
 # Editor & OS
 .vscode/*
